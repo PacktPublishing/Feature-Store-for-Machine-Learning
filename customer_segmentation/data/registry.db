@@ -1,6 +1,27 @@
 
+a
+C
+customerId of the customer"
+CustomerIDJcustomer_segmentation
+­¥¿‘ØšÍ!­¥¿‘ØšÍ!
 L
 .
 __dummy"
 __dummy_idJcustomer_segmentation
-®å¸‘€†¡®å¸‘€†¡1"$60abaf98-2847-46a8-926b-60d1c3cdcf32*²å¸‘¨ò†„
+­¥¿‘ØšÍ!­¥¿‘ØšÍ!1"$cb69c779-5834-4ed4-95cf-a55dcd4aaf1a*­¥¿‘ÊØë2§
+ˆ
+customer_rfm_featurescustomer_segmentationcustomer"
+Recency"
+	Frequency"
+MonetaryValue"
+R"
+F"
+M"
+RFMScore"
+	Revenue6m"
+
+LTVCluster"
+SegmentHighValue"
+SegmentLowValue"
+SegmentMidValue2€†°–:’event_timestamp*created_timestampz.,SELECT * FROM spectrum.customer_rfm_featuresŠ9feast.infra.offline_stores.redshift_source.RedshiftSource@
+­¥¿‘ØšÍ!­¥¿‘ØšÍ!bnevent_timestamp*created_timestampz.,SELECT * FROM spectrum.customer_rfm_featuresªcustomer_segmentation
