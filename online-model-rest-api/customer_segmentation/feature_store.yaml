@@ -1,0 +1,14 @@
+project: customer_segmentation
+registry: data/registry.db
+provider: aws
+online_store:
+  type: dynamodb
+  region: us-east-1
+offline_store:
+  type: redshift
+  cluster_id: feast-demo-mar-2022
+  region: us-east-1
+  database: dev
+  user: awsuser
+  s3_staging_location: s3://feast-demo-mar-2022/staging
+  iam_role: arn:aws:iam::<account_number>:role/feast-demo-mar-2022-spectrum-role
