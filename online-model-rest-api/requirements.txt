@@ -1,0 +1,9 @@
+boto3
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pydantic>=1.8.0
+xgboost==0.90
+feast==0.18.0
+docker
+joblib==1.1.0
+pandas
